@@ -1,2 +1,4 @@
-class Truc {
+package main;
+
+public class test {
 }
