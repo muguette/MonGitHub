@@ -1,5 +1,5 @@
 package main;
 
 public class Truc {
-// du code
+// du code excellent
 }
