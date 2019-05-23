@@ -1,2 +1,2 @@
-classTruc {
+class Truc {
 }
